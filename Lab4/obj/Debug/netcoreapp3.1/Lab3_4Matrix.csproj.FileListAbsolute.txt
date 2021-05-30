@@ -1,0 +1,13 @@
+C:\Users\volos\Desktop\lab3\Lab3_4Matrix\bin\Debug\netcoreapp3.1\Lab3_4Matrix.exe
+C:\Users\volos\Desktop\lab3\Lab3_4Matrix\bin\Debug\netcoreapp3.1\Lab3_4Matrix.deps.json
+C:\Users\volos\Desktop\lab3\Lab3_4Matrix\bin\Debug\netcoreapp3.1\Lab3_4Matrix.runtimeconfig.json
+C:\Users\volos\Desktop\lab3\Lab3_4Matrix\bin\Debug\netcoreapp3.1\Lab3_4Matrix.runtimeconfig.dev.json
+C:\Users\volos\Desktop\lab3\Lab3_4Matrix\bin\Debug\netcoreapp3.1\Lab3_4Matrix.dll
+C:\Users\volos\Desktop\lab3\Lab3_4Matrix\bin\Debug\netcoreapp3.1\Lab3_4Matrix.pdb
+C:\Users\volos\Desktop\lab3\Lab3_4Matrix\obj\Debug\netcoreapp3.1\Lab3_4Matrix.csprojAssemblyReference.cache
+C:\Users\volos\Desktop\lab3\Lab3_4Matrix\obj\Debug\netcoreapp3.1\Lab3_4Matrix.AssemblyInfoInputs.cache
+C:\Users\volos\Desktop\lab3\Lab3_4Matrix\obj\Debug\netcoreapp3.1\Lab3_4Matrix.AssemblyInfo.cs
+C:\Users\volos\Desktop\lab3\Lab3_4Matrix\obj\Debug\netcoreapp3.1\Lab3_4Matrix.csproj.CoreCompileInputs.cache
+C:\Users\volos\Desktop\lab3\Lab3_4Matrix\obj\Debug\netcoreapp3.1\Lab3_4Matrix.dll
+C:\Users\volos\Desktop\lab3\Lab3_4Matrix\obj\Debug\netcoreapp3.1\Lab3_4Matrix.pdb
+C:\Users\volos\Desktop\lab3\Lab3_4Matrix\obj\Debug\netcoreapp3.1\Lab3_4Matrix.genruntimeconfig.cache

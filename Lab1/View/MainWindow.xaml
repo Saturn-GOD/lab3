@@ -1,0 +1,24 @@
+﻿<Window x:Class="Lab1_Sec.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Lab1_Sec"
+        mc:Ignorable="d"
+        x:Name="ThisWindow"
+        Title="Секундомер" Height="377" Width="536">
+    <Grid Margin="0,0,2,3" RenderTransformOrigin="0.5,0.5">
+        <Grid.RenderTransform>
+            <TransformGroup>
+                <ScaleTransform/>
+                <SkewTransform/>
+                <RotateTransform Angle="0.259"/>
+                <TranslateTransform/>
+            </TransformGroup>
+        </Grid.RenderTransform>
+        <Button x:Name="StartBtn" Content="Start" HorizontalAlignment="Left" Margin="172,113,0,0" VerticalAlignment="Top" Width="101" Click="StartBtn_Click" Height="37"/>
+        <Button x:Name="StopBtn" Content="Stop" HorizontalAlignment="Left" Margin="172,167,0,0" VerticalAlignment="Top" Width="101" Click="StopBtn_Click" Height="38"/>
+        <Button x:Name="ResetBtn" Content="Reset" HorizontalAlignment="Left" Margin="172,221,0,0" VerticalAlignment="Top" Width="101" Click="ResetBtn_Click" RenderTransformOrigin="0.382,0.503" Height="37"/>
+        <TextBox x:Name="TimerText" HorizontalAlignment="Left" Margin="287,113,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="124" Height="145" Text="0"/>
+    </Grid>
+</Window>
